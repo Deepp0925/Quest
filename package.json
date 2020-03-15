@@ -1,0 +1,14 @@
+{
+  "name": "quest",
+  "version": "1.0.0",
+  "description": "Solution to quest problem",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./dist/index.js",
+    "build": "tsc -p ./tsconfig.json",
+    "compile": "tsc -p ./tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
