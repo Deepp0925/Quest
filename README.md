@@ -8,7 +8,9 @@ A solution to the problem given by IGN Code Foo 2020
 Here is what I got once I ran my program
 
 Total Reward(Rupees):  5970
+
 Number of Quests:  8
+
 Jobs:  -- Array of jobs by start date --
 
 # How to run
